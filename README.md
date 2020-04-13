@@ -9,3 +9,4 @@ Un blog increíble para el curso de Git y GitHub
 
 * Creado por el increible Super-man
 * Incluye ejemplos de como salvar a la nacion
+* Del malvado doctor tocino y del coronavirus
